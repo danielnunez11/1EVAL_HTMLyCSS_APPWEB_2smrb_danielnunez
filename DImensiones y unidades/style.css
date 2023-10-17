@@ -2,14 +2,27 @@
     font-size: 2em;
     color: blue;
     font-weight: bold;
+    border: dotted 12px red;
+    padding: 24px;
 }
 #saludoTriple{
     font-size: 3em;
     color: red;
     font-weight: bolder;
+    border: ridge 10px yellow;
+    background-color: plum;
+    padding: 20px;
 }
 #saludoTriplePorcentual{
     font-size: 300%;
     color: green;
     font-style: italic;
+    border: double 20px;
+    padding-top: 30px;
+}
+
+#noticia {
+    padding: 1cm 3cm;
+    background-color: aqua;
+
 }
