@@ -1,0 +1,15 @@
+#saludoDoble {
+    font-size: 2em;
+    color: blue;
+    font-weight: bold;
+}
+#saludoTriple{
+    font-size: 3em;
+    color: red;
+    font-weight: bolder;
+}
+#saludoTriplePorcentual{
+    font-size: 300%;
+    color: green;
+    font-style: italic;
+}
