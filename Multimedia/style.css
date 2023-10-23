@@ -1,0 +1,41 @@
+ #imagenes {
+    height: 500px;
+    width: 300px;
+    padding: 20px;
+    color: whitesmoke;
+    font-weight: bolder;
+    background-image: url(https://losenlacesdelavida.fundaciondescubre.es/files/2023/04/pinguino_CSIC-creative_commons_1681302313.jpg);
+    border-radius: 25px;
+}
+
+html {
+background-color: lightblue;
+}
+
+p {
+  background-color: red;
+  background-color: orange;
+}
+
+p.con-margen-exterior {
+  margin: 10px;
+}
+
+p.con-margen-interior {
+  padding: 10px;
+}
+
+p {
+  border: black 10px dotted;
+  margin: 200px;
+  padding: 200px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/be/Random_pyramids.jpg");
+  background-color: lightblue red;
+  background-blend-mode: color-burn;
+
+  background-origin: content-box;
+}
+
+
+
+
