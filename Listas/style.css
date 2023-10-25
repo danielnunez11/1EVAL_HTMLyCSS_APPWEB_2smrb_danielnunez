@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    background-color: black;
+
+}
+ol {
+    list-style-type: lower-latin;
+}
+ul  {
+    list-style-image: url(https://live.staticflickr.com/2218/2275401816_bd8a9fa18c_b.jpg);
+    height: 5px;
+    padding: 20px 20px;
+}
