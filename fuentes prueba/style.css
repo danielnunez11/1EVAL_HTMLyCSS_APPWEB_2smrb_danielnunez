@@ -1,0 +1,40 @@
+p.p1 {
+    color: red;
+}
+
+p.p2 {
+    color: blue;
+}
+
+p[class="p1 p2"] {
+    text-transform: uppercase;
+}
+
+p {
+    font-size:  60px;
+}
+
+a:link {
+    background-color: green;
+    font-size: 60px;
+}
+
+a:hover {
+    background-color: aqua;
+}
+a:visited {
+    background-color: yellow;
+  
+  }
+
+p::first-line {
+    text-transform: uppercase;
+;
+  }
+
+p::first-letter {
+    color: red;
+    background-color: black;
+}
+  
+
