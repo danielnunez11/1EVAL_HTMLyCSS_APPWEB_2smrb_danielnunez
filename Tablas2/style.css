@@ -1,0 +1,17 @@
+tr:first-child {
+    background-color: brown;
+    text-transform: uppercase;
+}
+
+
+
+table {
+    align-items: center;
+    padding: 100px 100px;
+    color: black;
+    height: 100px;
+    width: 1000px;
+    font-size: 20px;
+}
+
+

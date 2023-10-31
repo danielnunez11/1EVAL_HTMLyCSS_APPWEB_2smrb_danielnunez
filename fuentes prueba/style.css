@@ -37,4 +37,7 @@ p::first-letter {
     background-color: black;
 }
   
-
+h1 {
+    counter-reset: cuenta-parrafos;
+    counter-reset: cuenta-apartados;
+  }
