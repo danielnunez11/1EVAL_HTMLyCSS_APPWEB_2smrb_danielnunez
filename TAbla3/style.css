@@ -1,0 +1,29 @@
+caption {
+    caption-side: bottom;
+    text-align: center;
+    background-color: cyan;
+    color: purple;
+    border: orange 2px solid;
+    }
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    color: peru;
+    background-color: black;
+    border: orange 2px solid;
+    height: 100px;
+    width: 250px;
+    padding 90px;
+    margin-top: 400px;
+    text-align: center;
+    border-collapse: separate;
+}
+
+
+td {
+    border: solid white 2px;
+    padding: 20px;
+  
+
+}
