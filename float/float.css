@@ -1,0 +1,17 @@
+
+.gnu {
+    height: 100px;
+    float: left;
+    padding-right: 20px;
+}
+
+.tux {
+    height: 100px;
+    float: right;
+    padding-right: 20px;
+}
+
+hr {
+clear: both;
+
+}
