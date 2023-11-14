@@ -1,0 +1,14 @@
+.content-box {
+    width: 200px;
+    height: 100px;
+    box-sizing: content-box;
+    border: red 25px solid;
+}
+
+.border-box {
+
+    width: 200px;
+    height: 100px;
+    box-sizing: border-box;
+    border: red 25px solid;
+}
