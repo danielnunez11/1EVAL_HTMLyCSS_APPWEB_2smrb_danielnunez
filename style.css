@@ -2,6 +2,7 @@ body {
     background-color: #252422;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 16px;
+    text-align: center;
 }
 
 header {
@@ -17,9 +18,15 @@ a {
     color: white;
     font-size: 16px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
 }
 
 li {
     background-color: #eb5e28;
+    text-decoration: none;
+}
+
+li a {
     text-decoration: none;
 }
