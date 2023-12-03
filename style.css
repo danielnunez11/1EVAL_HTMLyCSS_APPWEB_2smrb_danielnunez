@@ -10,6 +10,7 @@ header {
     color: white;
     background-color: #eb5e28;
     height: 80px;
+    padding-top: 5px;
 }
 
 a {
@@ -17,5 +18,8 @@ a {
     color: white;
     font-size: 16px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
+li {
+    background-color: #eb5e28;
 }
